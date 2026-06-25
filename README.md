@@ -4,8 +4,8 @@
 
 ## Highlights
 
-- **Local-first desktop experience** — all desktop data lives in local SQLite
-- **Backup & restore** — export, import, and restore with validation
+- **Local-first desktop experience** — all desktop data lives in local SQLite. Additional encryption features coming soon. 
+- **Backup & restore** — export, import, and restore with validation. 
 
 ## Tech Stack
 
