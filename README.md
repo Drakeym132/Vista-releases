@@ -1,5 +1,5 @@
 # Vista
 
-Download the latest release of Vista!.
+Download the latest release of Vista!
 
-Vista is a personal finance app for macOS.
+Requires Apple Silicon Mac to run and macOS 26+ for Liquid Glass effects. 
